@@ -1,0 +1,21 @@
+<RCC>
+  <qresource prefix="Sudoku">
+    <file>Resources/openFile.png</file>
+    <file>Resources/customColours.png</file>
+    <file>Resources/darkMode.png</file>
+    <file>Resources/exit.png</file>
+    <file>Resources/lightMode.png</file>
+    <file>Resources/newFile.png</file>
+    <file>Resources/redo.png</file>
+    <file>Resources/reset.png</file>
+    <file>Resources/save.png</file>
+    <file>Resources/undo.png</file>
+    <file>Resources/saveAs.png</file>
+    <file>Resources/GridCellsSelected.png</file>
+    <file>Resources/GridSelectAll.png</file>
+    <file>Resources/3x3Select.png</file>
+    <file>Resources/ColumnSelect.png</file>
+    <file>Resources/Grid.png</file>
+    <file>Resources/RowSelect.png</file>
+  </qresource>
+</RCC>
